@@ -1,0 +1,2 @@
+# KareKodUygulamasi
+C# Karekod Uygulaması
